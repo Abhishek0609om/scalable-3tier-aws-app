@@ -1,1 +1,0 @@
-# scalable-3tier-aws-app
