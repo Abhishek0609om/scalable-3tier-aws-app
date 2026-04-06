@@ -1,7 +1,7 @@
 const http = require("http");
 
 const server = http.createServer((req, res) => {
-  res.end("Hello from MY AWS Project");
+  res.end("updated version");
 });
 
 server.listen(3000, () => {
